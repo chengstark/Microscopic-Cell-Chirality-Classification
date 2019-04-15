@@ -1,0 +1,16 @@
+remove false positive detection (cascade detection)
+cell rotate computation, cross correlation, polarcoordinate
+weighted template update Tt = a*Tt-1 + (1-a)Tt-2
+multiple SVM vote
+statistic features/ PCA
+multiframe rotation calculation
+template rotate resize
+cross correlation
+
+
+r2_score
+probality
+predict_proba
+
+
+kenerel performace analysis

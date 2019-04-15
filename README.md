@@ -1,3 +1,5 @@
 # mic3
-local mic3 from stark
-github backup before major changes
+MIcroscopic Cell Chirality Classification (MIC3)
+
+# Matlab Scripts
+The original Matlab scripts from the Wan Lab @RPI
